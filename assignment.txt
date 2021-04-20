@@ -1,0 +1,28 @@
+New Project Assignment: Tic-Tac-Toe
+    **I'm going to once again be "throwing you in the wild". 
+    **This time, you have some more knowledge about tools that you can use, mainly github in order to help you resolve a solution to your task. 
+    **This is known as open source, and this is the beauty of open source. You don't have to reinvent the wheel, you just have to know where to find a wheel. Then use the wheel to do whatever you want. 
+    **Feel free to clone a repo containing code for a tic tac toe game. But also feel free if you do that, to modify it and make it something interesting. Instead of X and O make it whatever else you think would be cool. 
+
+
+Assignment Tasks: 
+    1. I want you to leverage all tools covered in this class: 
+        a. HTML5
+        b. CSS3
+        c. JS ES6 (Vanilla JS)
+        d. Bootstrap (CSS Framework)
+        e. JQuery (JavaScript Framework)
+        f. Git (Version Control Manager)
+        g. DOM
+
+    2. I want you to build a tic tac toe 3 in a row game. 
+        a. Essentially, think about the logic of tic tac toe. 
+            aa. If I click on a particular box or grid or column, then I expect my value to render on that grid, column, or box. 
+                aaa. If I am player 1, it should render " X or O" and Vice Versa. 
+        b. The hardest of this project?
+            bb. Determining the logic of the winner, basically, 3 in a row. 
+                bbb. You'll have to define the logic behind how to determine a winner in a game of tic tac toe. 
+
+        Hint: Think of Lists/Arrays, think of Nested Lists/Arrays.
+        Hint: Think of Rows and Columns
+        Hint: Think of your Calc App and think about how it has any similarities to the logic of Tic-Tac-Toe. 
