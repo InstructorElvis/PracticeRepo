@@ -26,3 +26,30 @@ Assignment Tasks:
         Hint: Think of Lists/Arrays, think of Nested Lists/Arrays.
         Hint: Think of Rows and Columns
         Hint: Think of your Calc App and think about how it has any similarities to the logic of Tic-Tac-Toe. 
+
+
+
+
+
+
+Next Assignment: 
+
+BlackJack: Create a BlackJack Game using HTML CSS and JS. 
+
+Here are the rules. You have a deck of playing cards. So a sequence of cards. 
+
+Just like in a game of BlackJack, you pull a random value from the top of the deck (sequence of values)
+
+You'll need to keep track of the values that accumulate'
+
+If the value accumulated goes above 21, you lose
+
+If the value accumulated equals 21 you "blackjack"
+
+If Neither of those events occur, well then: 	
+
+	a. If Player 1 Accumulated Value is Greater than Player 2, Player 1 Wins
+	b. Vice Versa
+	c. If Player 1 and Player 2 have the same hand, (you can create a custom functionality) or you can just call it a draw. 
+
+

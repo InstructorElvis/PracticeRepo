@@ -1,0 +1,1 @@
+Your second assignment is to create a blackjack game using HTML CSS and JS. 
